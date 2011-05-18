@@ -10,5 +10,5 @@ gem 'sqlite3'
    gem 'rspec-rails', '2.6.0'
  end
 group :test do
-gem 'rspec', '2.6.0'
+gem 'rspec-rails', '2.6.0'
 end
