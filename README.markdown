@@ -1,4 +1,5 @@
 == Welcome to Rails
+This is the sample application by pavan kumar seggoju... contact me pavan@futurenow.biz
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
