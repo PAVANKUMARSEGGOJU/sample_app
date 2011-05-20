@@ -8,7 +8,8 @@ root :to => "pages#home"
 match '/about', :to=> 'pages#about'
 match '/help', :to=> 'pages#help'
 #match '/contact', :to=> 'pages#contact'
-get "pages/home"
+match '/signup', :to=> 'users#new'
+#get "pages/home"
 
 #  get "pages/contact"
 #	get "pages/about"
